@@ -1,0 +1,28 @@
+.hidden-word-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.hidden-word-container h1 {
+    font-size: 44px;
+    color: #2cd3df;
+    margin-bottom: 30px;
+}
+
+.hidden-word-container p {
+    font-size: 28px;
+    color: #f51a1a;
+}
+
+.hidden-word-container .hidden-word {
+    color: #0ede15;
+    font-weight: bold;
+}
+
+.hidden-word-container .typed-word {
+    color: #da0f0f;
+    font-weight: bold;
+}
